@@ -1,0 +1,160 @@
+body{
+  background-color: PeachPuff;
+  line-height: 1;
+}
+.title{
+  text-align: center;
+  font-size: 110px;
+  font-family: 'Luckiest Guy', cursive;
+}
+.nav{
+  background-color: Coral;
+  height:50px;
+  position: fixed; 
+  margin: 0% 70% 0% 70%;
+  top: 0; 
+  width:30%;
+}
+.nav li{
+  display: inline-block;
+}
+.nav ul{
+  margin: 0px;
+  text-align: center;
+}
+.nav a{
+  font-family: 'Bangers', cursive;
+  display: block;  
+  color: black;
+  text-align: center; 
+  padding: 10px 20px;
+  font-size: 30px;
+}
+.subtitle{
+  font-family: 'Boogaloo', cursive;
+  font-size: 65px;
+  text-align: center;
+}
+.idx1 h3{
+  font-family: 'Shadows Into Light Two', cursive;
+  font-size: 38px;
+  text-align: center;
+}
+.idx1{
+  text-align: center;
+  height: 50%;
+  width: 70%;
+  border: 5px solid Lavender;
+  margin: auto;
+  padding-bottom: 70px;
+  padding-top: 20px;
+}
+.idx1 p{
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 19px;
+}
+.idx{
+  text-align: center;
+  width: 70%;
+  border: 7px dotted DarkViolet;
+  margin: auto;
+  margin-top: 5%;
+  padding-bottom: 30px;
+  padding-top: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.idx h3{
+  font-family: 'Shadows Into Light Two', cursive;
+  font-size: 38px;
+  text-align: center;
+}
+.idx p{
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 19px;
+}
+.idx img{
+  width: 500px;
+  height: 300px;
+  padding-top: 3%;
+}
+.idx li{
+  font-family: 'Open Sans Condensed', sans-serif;
+  text-align: left;
+  padding-top: 5px;
+}
+.r_idx{
+  background-color: Linen;
+  width: 50%;
+  border: 5px solid LightCoral;
+  padding: 70px 40px;
+  padding-bottom: 5%;
+  margin: auto;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+.r_idx h2{
+  text-align: left;
+
+}
+.name h2{
+  text-align: center;
+  font-size: 35px;
+}
+.name p{
+  text-align: right;
+}
+.video{
+  text-align: center;
+  width: 70%;
+  margin: auto;
+  padding: 20px;
+  padding-bottom: 5%;
+  border: 6px solid Yellow;
+}
+.video iframe{
+  width: 850px;
+  height: 500px;
+}
+.video h3{
+  font-family: 'Shadows Into Light Two', cursive;
+  font-size: 30px;
+  text-align: center;
+}
+.picture{
+  text-align: center;
+  width: 70%;
+  margin: auto;
+  margin-top: 3%;
+  padding: 10px;
+  padding-bottom: 5%;
+  border: 6px solid Crimson;
+}
+.picture h3{
+  font-family: 'Shadows Into Light Two', cursive;
+  font-size: 30px;
+  text-align: center;
+  padding-top: 5%;
+}
+.picture img{
+  width: 500px;
+  height: 380px;
+}
+.school{
+  margin-top: 8%;
+  width: 70%;
+  margin: auto;
+  margin-top: 5%;
+  padding: 10px;
+  padding-top: 2%;
+  padding-bottom: 3%;
+  border: 6px solid RoyalBlue;
+
+}
+.school h3{
+  font-family: 'Shadows Into Light Two', cursive;
+  font-size: 30px;
+  text-align: center;
+}
+.school li{
+  font-family: 'Open Sans Condensed', sans-serif;
+}
