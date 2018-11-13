@@ -182,11 +182,13 @@ body{
 .video iframe{
   width: 850px;
   height: 500px;
+  padding-top: 3%;
 }
 .video h3{
   font-family: 'Shadows Into Light Two', cursive;
   font-size: 180%;
   text-align: center;
+  padding-top: 1%;
 }
 .picture{
   text-align: center;
@@ -202,7 +204,8 @@ body{
   font-family: 'Shadows Into Light Two', cursive;
   font-size: 180%;
   text-align: center;
-  padding-top: 5%;
+  padding-top: 1%;
+  padding-bottom: 3%;
 }
 .picture img{
   width: 500px;
