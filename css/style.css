@@ -52,6 +52,7 @@ body{
   letter-spacing: 0.07em
 }
 .title{
+  padding-top: 10%;
   text-align: center;
   font-size: 800%;
   font-family: 'Luckiest Guy', cursive;
@@ -83,6 +84,8 @@ body{
   font-family: 'Boogaloo', cursive;
   font-size: 350%;
   text-align: center;
+  padding-top: 2%;
+  padding-bottom: 3%;
 }
 .idx1 h3{
   font-family: 'Shadows Into Light Two', cursive;
@@ -96,11 +99,15 @@ body{
   border: 5px solid Lavender;
   margin: auto;
   padding-bottom: 70px;
-  padding-top: 20px;
+  padding-top: 2%;
+}
+.idx1 img{
+  padding-top: 3%;
 }
 .idx1 p{
   font-family: 'Open Sans Condensed', sans-serif;
   font-size: 130%;
+  padding-top: 3%;
 }
 .idx{
   text-align: center;
@@ -109,7 +116,7 @@ body{
   margin: auto;
   margin-top: 5%;
   padding-bottom: 30px;
-  padding-top: 20px;
+  padding-top: 2%;
   padding-left: 30px;
   padding-right: 30px;
 }
@@ -122,16 +129,19 @@ body{
   font-family: 'Open Sans Condensed', sans-serif;
   font-size: 130%;
   text-align: left;
+  padding-top: 3%;
 }
 .idx img{
   width: 500px;
   height: 300px;
   padding-top: 3%;
 }
+.idx ul{
+  padding-top: 2%;
+}
 .idx li{
   font-family: 'Open Sans Condensed', sans-serif;
   text-align: left;
-  padding-top: 5px;
 }
 .r_idx{
   background-color: Linen;
@@ -175,6 +185,7 @@ body{
   margin: auto;
   margin-top: 3%;
   padding: 10px;
+  padding-top: 2%;
   padding-bottom: 5%;
   border: 6px solid Crimson;
 }
