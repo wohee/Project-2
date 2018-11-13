@@ -11,10 +11,9 @@ body{
 .nav{
   background-color: Coral;
   height:50px;
-  position: fixed; 
-  margin: 0% 70% 0% 70%;
+  position: fixed;
   top: 0; 
-  width:30%;
+  width:100%;
 }
 .nav li{
   display: inline-block;
