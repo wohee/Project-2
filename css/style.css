@@ -154,10 +154,19 @@ body{
 }
 .r_idx h2{
   text-align: left;
+  font-size: 20px;
+  padding-top: 3%;
+}
+.r_idx p{
+  padding: 0.5%;
+}
+.r_idx ul{
+  padding: 2%;
 }
 .name h2{
   text-align: center;
   font-size: 230%;
+  padding-bottom: 3%;
 }
 .name p{
   text-align: right;
