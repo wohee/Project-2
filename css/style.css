@@ -30,6 +30,7 @@ body{
   text-align: center; 
   padding: 10px 20px;
   font-size: 180%;
+  text-decoration: none;
 }
 .subtitle{
   font-family: 'Boogaloo', cursive;
